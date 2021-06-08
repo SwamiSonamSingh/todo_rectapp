@@ -1,0 +1,17 @@
+.container h1{
+  display: flex;
+  justify-content: center;
+  color:orangered
+}
+.inp{
+  display: flex;
+  justify-content: center;
+}
+.inp input{
+  width:100vh;
+  border-radius: 4px;
+}
+.btn{
+  display: flex;
+  justify-content: center;
+}
